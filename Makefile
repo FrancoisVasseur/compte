@@ -1,4 +1,5 @@
 all: main.exe
+	@echo "Build main.exe"
 
 clean:
 	rm -r main.exe *.o
